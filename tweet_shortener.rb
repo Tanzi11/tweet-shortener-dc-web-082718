@@ -1,2 +1,3 @@
-def word_substituter(tweet)
+def dictionary
+  
   
