@@ -6,5 +6,6 @@ def dictionary
   "two" => "2",
   "for" => "4",
   "four" => "4",
+  "be" => "b",
   
   
