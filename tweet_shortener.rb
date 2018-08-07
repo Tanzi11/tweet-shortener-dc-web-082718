@@ -14,4 +14,6 @@ def dictionary
 end 
 
 def word_substituter(tweet)
+  tweetArray = tweet.split.collect do |word|
+    
   
