@@ -1,3 +1,4 @@
 def dictionary
-  
+  {
+  "hello" => "hi",
   
